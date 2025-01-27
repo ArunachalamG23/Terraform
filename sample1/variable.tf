@@ -1,10 +1,10 @@
 variable "ami_id" {
-  description = "value of ami"
+  description = "value of ami id"
 }
 variable "instance_type" {
-  description = "value for instanceid"
+  description = "value for instance type"
 }
 variable "subnet_id" {
-  description = "subnet"
+  description = "value for subnet id"
 }
 
