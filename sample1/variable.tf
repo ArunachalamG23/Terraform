@@ -1,7 +1,7 @@
-variable "ami" {
+variable "ami_id" {
   description = "value of ami"
 }
-variable "instance_id" {
+variable "instance_type" {
   description = "value for instanceid"
 }
 variable "subnet_id" {
